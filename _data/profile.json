@@ -4,17 +4,17 @@
     "vanta_effect": "birds",
     "vanta_magic": true,
     "colors": {
-      "primary": "#0d1117",
-      "secondary": "#161b22",
-      "accent": "#58a6ff"
+      "primary": "#050505",
+      "secondary": "#1a0505",
+      "accent": "#FF4500"
     },
     "music": {
       "enabled": true,
       "file": "/assets/music/interstellar.mp3",
-      "max_volume": 1.0
+      "max_volume": 0.3
     },
     "use_logo_image": true,
-    "nav_bar_logo_url": "/assets/img/theprofile.png",
+    "nav_bar_logo_url": "./assets/img/theprofile.png",
     "custom_cursor": true
   },
 
@@ -23,138 +23,160 @@
     "enabled": true
   },
 
-  "name": "{ TheProFile }",
-  "headline": "The Portfolio-as-Code Template with Zero code & Maximum Impact.",
-  "email": "srisatyalokesh@duck.com",
-  "profile_image_url": "/assets/img/logo.png",
-  "resume_url": "https://github.com/SriSatyaLokesh/theprofile",
-  "bio": "I am a high-fidelity, single-page Jekyll template born from a deep-seated hatred for drag-and-drop builders. I live in a single JSON file and dream of pixel-perfect glassmorphism. I don't need a CV; I am the CV. I'm here to ensure your career looks like it was built by a team of Silicon Valley designers, even if you just finished your second coffee.",
+  "name": "Sai Vivek Madisetti",
+  "headline": "Cybersecurity Researcher & Full-Stack Developer | Blockchain, Federated Learning & ML Enthusiast",
+  "email": "saivivek1357@gmail.com",
+  "profile_image_url": "./assets/img/logo.jpg",
+  "resume_url": "https://github.com/username/theprofile",
+  "bio": "BTech in CSE (Cybersecurity) at IIIT Kottayam with a strong passion for building secure, intelligent systems. Experienced in research on drone security with Blockchain and Federated Learning. I love creating full-stack applications and machine learning pipelines that solve real-world problems.",
 
   "social": [
-    { "platform": "GitHub",    "url": "https://github.com/SriSatyaLokesh/theprofile",       "logo": "github",       "color": "181717" },
-    { "platform": "Twitter",   "url": "https://twitter.com",                          "logo": "twitter",      "color": "1DA1F2" },
-    { "platform": "LinkedIn",  "url": "https://linkedin.com",                         "logo": "linkedin",     "color": "0A66C2" },
-    { "platform": "Dev.to",    "url": "https://dev.to",                               "logo": "devdotto",     "color": "0A0A0A" }
+    { "platform": "GitHub", "url": "https://github.com/saivivek", "logo": "github", "color": "181717" },
+    { "platform": "LinkedIn", "url": "https://linkedin.com/in/sai-vivek-madisetti", "logo": "linkedin", "color": "0A66C2" }
   ],
 
   "experience": [
     {
-      "role": "Senior Portfolio Engine",
-      "company": "GitHub Pages",
-      "company_url": "https://pages.github.com",
+      "role": "Research Intern",
+      "company": "C.R.E.A.T.E Labs",
+      "company_url": "",
       "duration": "Jan 2026 – Present",
       "description": [
-        "Automated the career glow-up of thousands of developers by providing 6 interactable WebGL backgrounds they didn't know they needed.",
-        "Reduced 'Time to Landing Page' from weeks of CSS wrestling to 3 minutes of JSON editing — causing a 400% increase in developer confidence.",
-        "Successfully defended the 'Portfolio-as-Code' philosophy against the invading forces of drag-and-drop website builders.",
-        "Implemented a Dual-Trigger Easter Egg discovery system: Double-click the status badge for a background shockwave, or the Navbar logo for a sequential branding makeover.",
-        "Engineered a context-aware theme engine that intelligently preserves readability by selectively applying color palettes based on Light/Dark mode state."
+        "Researching and developing security solutions for the Application Layer of Drone Communication.",
+        "Implementing cutting-edge technologies including Blockchain and Federated Learning to enhance drone security and data privacy."
       ]
     },
     {
-      "role": "Lead CSS Wrestler",
-      "company": "The Internet",
-      "company_url": "https://www.w3.org",
-      "duration": "Oct 2025 – Present",
+      "role": "Student Placement Coordinator",
+      "company": "Training and Placement Cell, IIIT Kottayam",
+      "company_url": "",
+      "duration": "2024 – Present",
       "description": [
-        "Centering a <div> while simultaneously maintaining Backdrop Blur (12px) without causing a browser meltdown.",
-        "Optimized GSAP entrance choreography to be 45% more 'satisfying' according to highly scientific internal audits.",
-        "Engineered a glassmorphism navigation system so floating it actually feels like it's made of real glass (without the risk of cuts).",
-        "Wrote 1,000+ lines of SCSS using CSS Custom Properties so users don't have to look at hex codes ever again."
+        "Leading campus recruitment logistics, acting as a key bridge between students and top-tier recruiters.",
+        "Strengthened leadership, communication, and cross-functional collaboration skills by managing placement drives."
       ]
     }
   ],
 
   "skills": [
     {
-      "category": "Frontend Soul",
-      "items": ["Jekyll", "Liquid Magic", "SCSS Architect", "GSAP Moves"],
-      "logos": ["jekyll", "shopify", "sass", "greensock"]
+      "category": "Languages",
+      "items": ["C++", "C", "JavaScript", "Python"],
+      "logos": ["cplusplus", "c", "javascript", "python"]
     },
     {
-      "category": "Data Brain",
-      "items": ["JSON Schema", "Git Workflows", "Actions Automation", "YAML Whispering"],
-      "logos": ["json", "git", "githubactions", "github"]
+      "category": "Frameworks & Libraries",
+      "items": ["React.js", "Node.js", "Django", "REST APIs", "Socket.io", "PyTorch"],
+      "logos": ["react", "nodedotjs", "django", "fastapi", "socketdotio", "pytorch"]
     },
     {
-      "category": "Visual Heart",
-      "items": ["Vanta.js", "Three.js", "WebGL", "Glassmorphism"],
-      "logos": ["visualstudiocode", "threejs", "webgl", "css3"]
+      "category": "Databases & Cloud",
+      "items": ["MySQL", "SQLite", "MongoDB", "Firebase", "AWS (S3)"],
+      "logos": ["mysql", "sqlite", "mongodb", "firebase", "amazonaws"]
+    },
+    {
+      "category": "Data Science & ML",
+      "items": ["NumPy", "Pandas", "Scikit-learn", "XGBoost", "Matplotlib", "Seaborn", "Computer Vision"],
+      "logos": ["numpy", "pandas", "scikitlearn", "xgboost", "matplotlib", "seaborn", "opencv"]
+    },
+    {
+      "category": "Tools",
+      "items": ["Figma", "GitHub", "Wireshark"],
+      "logos": ["figma", "github", "wireshark"]
     }
   ],
 
   "education": [
     {
-      "degree": "PhD in Zero-Code Architecture",
-      "institution": "University of Open Source",
-      "year": "2026",
+      "degree": "BTech in Computer Science & Engineering (Cybersecurity)",
+      "institution": "Indian Institute of Information Technology Kottayam",
+      "year": "2023 - 2027",
       "description": [
-        "Defended a groundbreaking thesis on why developers should spend time coding features, not fighting with HTML boilerplate.",
-        "Minor in 'Monochromatic Theme Synchronization' — proving that any website looks elite with the right accent color.",
-        "Dean's List for 'Most Optimized Jekyll Build Time' (2025)."
+        "CGPA: 8.31/10.0",
+        "Relevant Courses: Operating Systems, Database Management, Computer Networks, Data Structures"
       ]
     },
     {
-      "degree": "Master of Portfolio Automation",
-      "institution": "Self-Taught via SriSatyaLokesh",
-      "year": "2025",
+      "degree": "Intermediate (MPC)",
+      "institution": "Narayan Junior College",
+      "year": "2023",
       "description": [
-        "Mastered the art of JSON-to-Elite-Portfolio transformation.",
-        "Learned to orchestrate GSAP and Vanta.js for maximum cinematic impact."
+        "Percentage: 98.3%",
+        "Courses: Maths, Physics, Chemistry"
       ]
     }
   ],
 
   "projects": [
     {
-      "title": "{ TheProFile }",
-      "description": "A high-fidelity Portfolio-as-Code template. Focus on content in a single JSON file while the engine handles design, cinematic audio, and WebGL. Pro-tip: Double-click the Navbar logo for a branding makeover, or the 'Available for work' badge for background magic.",
-      "image_url": "/assets/img/theprofile.png",
-      "stack":        ["Jekyll",    "SCSS",     "GSAP"],
-      "stack_colors": ["CC0000",    "1572B6",   "88CE02"],
-      "stack_logos":  ["jekyll",    "css3",     "greensock"],
-      "code_url": "https://github.com/SriSatyaLokesh/theprofile",
-      "live_url": "https://srisatyalokesh.github.io/theprofile/"
+      "title": "MedSecure - Biometric Cloud Storage System",
+      "description": "Developed a secure biometric cloud storage system for medical files. Fragments encrypted data across distributed nodes and uses AI-powered face recognition (96.2% accuracy) with WebAuthn for multi-factor authentication.",
+      "image_url": "https://example.com/medsecure.jpg",
+      "stack": ["JavaScript", "Face Recognition", "AWS S3", "Computer Vision", "RBAC"],
+      "stack_colors": ["F7DF1E", "FF6B6B", "FF9900", "5A67D8", "2C3E50"],
+      "stack_logos": ["javascript", "opencv", "amazonaws", "python", "lock"],
+      "code_url": "https://github.com/saivivek/medsecure",
+      "live_url": ""
     },
     {
-      "title": "Open Certificate Generator",
-      "description": "An automated bulk certificate generation engine. Designed for hackathons and organizations to generate branded, professional certificates from raw data in seconds.",
-      "image_url": "https://srisatyalokesh.github.io/open-certificate-generator/assets/img/og-default.jpg",
-      "stack":        ["React",     "Canvas API", "Node.js"],
-      "stack_colors": ["61DAFB",    "000000",     "339933"],
-      "stack_logos":  ["react",     "html5",      "nodedotjs"],
-      "code_url": "https://github.com/SriSatyaLokesh/open-certificate-generator",
-      "live_url": "https://srisatyalokesh.github.io/open-certificate-generator/"
+      "title": "Lifestyle Health Risk Prediction using ML",
+      "description": "Built a predictive ML pipeline on a 5,000-record healthcare dataset to classify health risk levels. Achieved 88.9% accuracy using XGBoost after extensive EDA and feature engineering.",
+      "image_url": "https://example.com/health-ml.jpg",
+      "stack": ["Python", "Pandas", "Scikit-learn", "XGBoost", "Matplotlib"],
+      "stack_colors": ["3776AB", "F9A825", "F7931E", "D32F2F", "1E88E5"],
+      "stack_logos": ["python", "pandas", "scikitlearn", "xgboost", "matplotlib"],
+      "code_url": "https://github.com/saivivek/health-risk-prediction",
+      "live_url": ""
     },
     {
-      "title": "Copilot Team Workflow",
-      "description": "A comprehensive framework of standards and workflows for maximizing team velocity with GitHub Copilot. Includes optimized prompts and pair-programming patterns for elite teams.",
-      "image_url": "https://images.ctfassets.net/8aevphvgewt8/2Zamxo7a7F9K9jsTAl2EGA/bce1f04a40536e89ef543cb311f2968b/github-copilot-cli.png",
-      "stack":        ["AI Prompts", "Workflows", "Git"],
-      "stack_colors": ["4F46E5",     "000000",    "F05032"],
-      "stack_logos":  ["openai",     "github",    "git"],
-      "code_url": "https://github.com/SriSatyaLokesh/copilot-team-workflow",
-      "live_url": "https://srisatyalokesh.github.io/copilot-team-workflow/"
+      "title": "TempChat - Anonymous Chat Platform",
+      "description": "A secure anonymous chat platform where rooms self-destruct after use. Features end-to-end encryption, message expiration, zero data persistence, and real-time delivery via WebSockets.",
+      "image_url": "https://example.com/tempchat.jpg",
+      "stack": ["Socket.io", "Node.js", "MongoDB", "React"],
+      "stack_colors": ["010101", "339933", "47A248", "61DAFB"],
+      "stack_logos": ["socketdotio", "nodedotjs", "mongodb", "react"],
+      "code_url": "https://github.com/saivivek/tempchat",
+      "live_url": ""
+    },
+    {
+      "title": "Hostel Complaint System",
+      "description": "Role-based web app to automate hostel complaint resolution. Features RBAC (Student/Warden/Admin), automated workflow, real-time notifications, and a centralized dashboard.",
+      "image_url": "https://example.com/hostel-system.jpg",
+      "stack": ["Django", "React", "REST API", "SQLite"],
+      "stack_colors": ["092E20", "61DAFB", "FF6C37", "003B57"],
+      "stack_logos": ["django", "react", "fastapi", "sqlite"],
+      "code_url": "https://github.com/saivivek/hostel-complaint-system",
+      "live_url": ""
+    },
+    {
+      "title": "Tour Management System",
+      "description": "Full-featured system to automate travel booking operations. Includes tour browsing, online booking with payment integration, accommodation management, and customizable travel preferences.",
+      "image_url": "https://example.com/tour-management.jpg",
+      "stack": ["HTML", "CSS", "ReactJS", "Python (Django)", "SQLite"],
+      "stack_colors": ["E34F26", "1572B6", "61DAFB", "3776AB", "003B57"],
+      "stack_logos": ["html5", "css3", "react", "python", "sqlite"],
+      "code_url": "https://github.com/saivivek/tour-management",
+      "live_url": ""
     }
   ],
 
   "recommendations": [
     {
-      "text": "I built TheProFile specifically to solve my own frustration with complex portfolio maintenance. Pro-tip: Double-click the 'Available for opportunities' badge for a little surprise.",
-      "name": "SriSatyaLokesh",
-      "title": "Creator of TheProFile",
-      "linkedin_url": "https://www.linkedin.com/in/srisatyalokesh"
-    },
-    {
-      "text": "TheProFile is so good, it actually convinced me to stop using React for a simple landing page. My Lighthouse score is 100/100 and my hands are finally clean of node_modules.",
-      "name": "A Grateful Developer",
-      "title": "Escaped React Dev",
+      "text": "Sai Vivek is a brilliant cybersecurity researcher and developer. His work on the MedSecure project showcases a deep understanding of both security principles and practical implementation.",
+      "name": "Prof. C.R.E.A.T.E Labs",
+      "title": "Research Supervisor",
       "linkedin_url": ""
     },
     {
-      "text": "The Portfolio-as-Code philosophy is exactly what I needed. I spend all day in VS Code; why would I want to build my site in a browser drag-and-drop tool?",
-      "name": "Backend Guru",
-      "title": "Senior YAML Architect",
+      "text": "As a Placement Coordinator, Sai was incredibly organized and proactive. He played a key role in successfully managing our campus recruitment drives and bridging the gap between students and companies.",
+      "name": "Placement Committee",
+      "title": "IIIT Kottayam",
+      "linkedin_url": ""
+    },
+    {
+      "text": "His project on health risk prediction is very impressive. He doesn't just build things; he understands the data behind them and focuses on real accuracy and impact.",
+      "name": "Hackathon Judge",
+      "title": "IEEE Kerala Chapter",
       "linkedin_url": ""
     }
   ]
