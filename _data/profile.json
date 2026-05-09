@@ -14,7 +14,7 @@
       "max_volume": 0.3
     },
     "use_logo_image": true,
-    "nav_bar_logo_url": "./assets/img/theprofile.png",
+    
     "custom_cursor": true
   },
 
@@ -24,22 +24,22 @@
   },
 
   "name": "Sai Vivek Madisetti",
-  "headline": "Cybersecurity Researcher & Full-Stack Developer | Blockchain, Federated Learning & ML Enthusiast",
+  "headline": "Full-Stack Developer & Cybersecurity Researcher | Blockchain, Federated Learning & ML Enthusiast",
   "email": "saivivek1357@gmail.com",
-  "profile_image_url": "./assets/img/logo.jpg",
-  "resume_url": "https://github.com/username/theprofile",
+  "profile_image_url": "./assets/img/vivek.jpg",
+  "resume_url": "https://github.com/sai-vivek-14",
   "bio": "BTech in CSE (Cybersecurity) at IIIT Kottayam with a strong passion for building secure, intelligent systems. Experienced in research on drone security with Blockchain and Federated Learning. I love creating full-stack applications and machine learning pipelines that solve real-world problems.",
 
   "social": [
-    { "platform": "GitHub", "url": "https://github.com/saivivek", "logo": "github", "color": "181717" },
-    { "platform": "LinkedIn", "url": "https://linkedin.com/in/sai-vivek-madisetti", "logo": "linkedin", "color": "0A66C2" }
+    { "platform": "GitHub", "url": "https://github.com/sai-vivek-14", "logo": "github", "color": "181717" },
+    { "platform": "LinkedIn", "url": "https://www.linkedin.com/in/saivivekmadisetti/", "logo": "linkedin", "color": "0A66C2" }
   ],
 
   "experience": [
     {
       "role": "Research Intern",
       "company": "C.R.E.A.T.E Labs",
-      "company_url": "",
+      "company_url": "https://create.iiitkottayam.ac.in/",
       "duration": "Jan 2026 – Present",
       "description": [
         "Researching and developing security solutions for the Application Layer of Drone Communication.",
@@ -111,11 +111,11 @@
     {
       "title": "MedSecure - Biometric Cloud Storage System",
       "description": "Developed a secure biometric cloud storage system for medical files. Fragments encrypted data across distributed nodes and uses AI-powered face recognition (96.2% accuracy) with WebAuthn for multi-factor authentication.",
-      "image_url": "https://example.com/medsecure.jpg",
+      "image_url": "./assets/img/download.jpeg",
       "stack": ["JavaScript", "Face Recognition", "AWS S3", "Computer Vision", "RBAC"],
       "stack_colors": ["F7DF1E", "FF6B6B", "FF9900", "5A67D8", "2C3E50"],
       "stack_logos": ["javascript", "opencv", "amazonaws", "python", "lock"],
-      "code_url": "https://github.com/saivivek/medsecure",
+      "code_url": "https://github.com/sai-vivek-14/Med-Secure",
       "live_url": ""
     },
     {
@@ -125,7 +125,7 @@
       "stack": ["Python", "Pandas", "Scikit-learn", "XGBoost", "Matplotlib"],
       "stack_colors": ["3776AB", "F9A825", "F7931E", "D32F2F", "1E88E5"],
       "stack_logos": ["python", "pandas", "scikitlearn", "xgboost", "matplotlib"],
-      "code_url": "https://github.com/saivivek/health-risk-prediction",
+      "code_url": "https://colab.research.google.com/drive/1D2aNVWAR9jDTWYqGXnRV1NLij2MbYAOw?usp=sharing",
       "live_url": ""
     },
     {
@@ -135,7 +135,7 @@
       "stack": ["Socket.io", "Node.js", "MongoDB", "React"],
       "stack_colors": ["010101", "339933", "47A248", "61DAFB"],
       "stack_logos": ["socketdotio", "nodedotjs", "mongodb", "react"],
-      "code_url": "https://github.com/saivivek/tempchat",
+      "code_url": "https://github.com/sai-vivek-14/TempChat",
       "live_url": ""
     },
     {
@@ -145,7 +145,7 @@
       "stack": ["Django", "React", "REST API", "SQLite"],
       "stack_colors": ["092E20", "61DAFB", "FF6C37", "003B57"],
       "stack_logos": ["django", "react", "fastapi", "sqlite"],
-      "code_url": "https://github.com/saivivek/hostel-complaint-system",
+      "code_url": "https://github.com/sai-vivek-14/Complaint-Management-System",
       "live_url": ""
     },
     {
@@ -155,7 +155,7 @@
       "stack": ["HTML", "CSS", "ReactJS", "Python (Django)", "SQLite"],
       "stack_colors": ["E34F26", "1572B6", "61DAFB", "3776AB", "003B57"],
       "stack_logos": ["html5", "css3", "react", "python", "sqlite"],
-      "code_url": "https://github.com/saivivek/tour-management",
+      "code_url": "https://github.com/sai-vivek-14/TourManagementSystem",
       "live_url": ""
     }
   ],
